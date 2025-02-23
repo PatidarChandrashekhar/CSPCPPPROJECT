@@ -145,6 +145,8 @@ int main() {
 
 VS Code
 
+![alt text](image.png)
+
 ## Useful CPP commands
 
 1. g++ helloworld.cpp
